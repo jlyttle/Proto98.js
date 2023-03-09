@@ -1214,7 +1214,7 @@ add_icon_not_via_filesystem({
 add_icon_not_via_filesystem({
 	title: "Internet Explorer",
 	iconID: "internet-explorer",
-	open: function () { Explorer("https://www.google.com/"); }
+	open: function () { Explorer("http://www.inode.com/"); }
 });
 add_icon_not_via_filesystem({
 	title: "Paint",
